@@ -1,4 +1,4 @@
-package med.voll.api.medico;
+package med.voll.api.domain.medico;
 
 //Enum: Conjunto fixo de valores constantes
 public enum Especialidade {
